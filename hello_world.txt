@@ -1,1 +1,2 @@
 This is the Odin Project. I am learning how to use git to add(stage) and commit and finaly push it to the remote repository on Github.
+Hello Odin!
